@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Search -->
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Search"
+        app:showAsAction="ifRoom|withText" />
+
+    <!-- Quiz -->
+    <item
+        android:id="@+id/quiz"
+        android:icon="@drawable/baseline_add_to_queue_24"
+        android:title="Quiz"
+        app:showAsAction="ifRoom|withText" />
+
+    <!-- Playlist -->
+    <item
+        android:id="@+id/playlist"
+        android:icon="@drawable/baseline_audiotrack_24"
+        android:title="Playlist"
+        app:showAsAction="ifRoom|withText" />
+
+    <!-- Favorites -->
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:title="Favorites"
+        app:showAsAction="ifRoom|withText" />
+</menu>

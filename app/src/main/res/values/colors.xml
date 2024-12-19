@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="purple">#FF6200EE</color>  <!-- Example for background -->
+    <color name="white">#FFFFFF</color>        <!-- Example for icon color -->
+    <color name="whiter">#FFFFFF</color>        <!-- Example for text color -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <!-- Default text color for general text (song title, artist name) -->
+    <color name="text_color">#333333</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Primary color for buttons -->
+    <color name="colorAccent">#03DAC5</color> <!-- Accent color for skip button -->
+    <!-- Button color (used for play button and others) -->
+    <color name="button_color">#4CAF50</color>
+
+    <!-- Icon color (used for all icons) -->
+    <color name="icon_color">#2196F3</color>
+
+    <!-- Accent color (used for highlights) -->
+    <color name="accent_color">#FF9800</color>
+
+
+    <!-- Darker color for button press effect -->
+
+</resources>
