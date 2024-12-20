@@ -10,10 +10,10 @@ This report provides a detailed description of the Music Application project, it
 - Results are displayed in a user-friendly interface with separate tabs for tracks and albums.
 
 #### Search Fragment:
-![Search Fragment](e1.jpeg)
+![Search Fragment](src/e1.jpeg)
 
 #### Search Results:
-![Search Results](e2.jpeg)
+![Search Results](src/e2.jpeg)
 
 ### 2. Album View
 - Clicking on an album opens the **AlbumTrackFragment**, displaying all tracks within the album.
