@@ -128,7 +128,17 @@ The following is a guide to the Music Application project as follows; Upon decid
 4. Open a pull request for review.
 
 ---
+## Team
 
+1. Abid Gurbanov (Swift intern at Internatinal bank of Azerbaijan)
+App architecture.
+Search screens.
+Implemented the Multiple Choice and open questions
+Create network Deezer API for fetching music data.
+3. Mahammad Dadashov
+Developed the Playlist and Quiz functionalities.
+
+---
 ## Conclusion
 
 As a fully functional application for music lovers, The Music Application comprises of four major components: search, playlist, music player, and quiz. This README is intended to provide an overview of how to use and deploy the application as well as detailing out some of the primary concerns and services of the application.
