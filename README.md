@@ -60,7 +60,7 @@ The following is a guide to the Music Application project as follows; Upon decid
 
 #### Key Screens:
 
-- **Playlist Fragment**: View and manage all playlists. ![Playlist Fragment](src/PlaylistFragment.jpeg)
+- **Playlist Fragment**: Here you can play the music in a fragmant you are ![Playlist Fragment](src/PlaylistFragment.jpeg)
 - **Playlist Creation**: Simplified interface to create a new playlist. ![Playlist Creation](src/PlaylistCreation.jpeg)
 - **Playlist Naming**: Dialog for naming a new playlist. ![Playlist Naming](src/PlaylistNaming.jpeg)
 - **Choose Playlist Dialog**: Select a playlist to add a track. ![Choose Playlist Dialog](src/ChoosePlaylistDialog.jpeg)
